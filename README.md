@@ -31,7 +31,7 @@ In every pseudocode program, there must be a **STOP** statmement at the very end
 
 ### For statements
   
-  **FOR x TO y is the variable being incremented. x is the starting value, and y is the end value. In JAVA it looks something like: for(int index = x; index < y; index++)
+  **FOR x TO y** is the variable being incremented. x is the starting value, and y is the end value. In JAVA it looks something like: for(int index = x; index < y; index++)
   
   **NEXT** - Ends the for statement just like how ENDIF ends an if statement. Anything after this is outside the FOR statement block
   

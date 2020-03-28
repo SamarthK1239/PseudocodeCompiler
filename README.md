@@ -27,7 +27,7 @@ In every pseudocode program, there must be a **STOP** statmement at the very end
 
   **ELSE** - else statement
 
-  **ENDIF** - ends and if statement
+  **ENDIF** - ends an if statement
 
 ### For statements
   
@@ -52,6 +52,7 @@ In every pseudocode program, there must be a **STOP** statmement at the very end
   
   **START** - this one is the most important. Both syntax-wise and translator wise. Seeing this block triggers the output of the class name and 
   method as well as a standby index for a while loop.
-  **OUTPUT x** - x is the value to be outputted. x can be a variable in the types: String, int and char. 
+ 
+ **OUTPUT x** - x is the value to be outputted. x can be a variable in the types: String, int and char. 
   
   **INPUT x** - x is the name of the variable which is going to be input into the system. 
